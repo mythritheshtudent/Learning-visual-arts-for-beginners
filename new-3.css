@@ -1,0 +1,14 @@
+body {
+    background-color:lightgoldenrodyellow;
+    background-image: url("flower-3214833__340.webp");}
+  
+  p {
+    color: black;
+  }
+  h1 {
+    font-weight: bold;font-family: monospace;background-color: white
+  }
+  h2{font-family: monospace;background-color: lightyellow;font-size:24px }
+  p{font-family:inherit;font-size: 18px;background-color: lightpink;font-size: 30px;}
+  ul{font-size: 24px;background-color: lightcoral;font-family: inherit}
+  h4{background-color:white;}
